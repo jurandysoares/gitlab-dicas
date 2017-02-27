@@ -1,2 +1,2 @@
 # gitlab-dicas
-Dicas para uso do GITLAB
+Dicas para uso do GITLAB.
